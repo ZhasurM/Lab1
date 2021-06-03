@@ -19,6 +19,4 @@ class Title(object):
 
 
 
-import get_login_mac_mik()
-
-
+get_login_mac_mik()
